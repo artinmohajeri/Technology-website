@@ -1,5 +1,5 @@
 # Technology website
-** this project is rebulding a webpage
+* this project is rebulding a webpage
 ## This project was developed by artin mohajer for TIT(Tehran Institute of Technology) midterm exam.
 ### using only Html & css
 
