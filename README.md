@@ -1,10 +1,13 @@
 # Technology website
 ## This project was developed by artin mohajer for TIT(Tehran Institute of Technology) midterm exam.
-using only Html & css
+### using only Html & css
+
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/95845593/222905535-0d5e8019-2a98-4674-9e7e-32e99eeb3e7f.png)
 
 ![Screenshot (41)](https://user-images.githubusercontent.com/95845593/222905546-fa33805b-b687-4381-bfe9-34756690b4b8.png)
+
+
 
 #### the template link is written down below.
 
